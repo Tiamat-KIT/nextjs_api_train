@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/workspace/nextjs_api_train/app/User/page":[]}}
